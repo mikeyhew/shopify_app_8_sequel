@@ -53,7 +53,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'sequel'
 gem 'pg'
-gem 'sequel-rails', git: 'https://github.com/mikeyhew/sequel-rails.git'
+gem 'sequel-rails', git: 'https://github.com/TalentBox/sequel-rails.git'
 gem 'activeresource', git: 'https://github.com/rails/activeresource'
 gem 'shopify_api'
 gem 'shopify_api_mixins', git: 'https://github.com/mikeyhew/shopify_api_mixins'
